@@ -1,0 +1,8 @@
+{
+  "appId": "tareas.com",
+  "appName": "tareas",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
